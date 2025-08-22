@@ -1,0 +1,22 @@
+{
+  "name": "calculator-app",
+  "version": "1.0.0",
+  "description": "A simple calculator app built with HTML, CSS, and JavaScript.",
+  "main": "src/scripts/calculator.js",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'No build step required'"
+  },
+  "keywords": [
+    "calculator",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
